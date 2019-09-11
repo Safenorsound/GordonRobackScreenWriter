@@ -2195,7 +2195,7 @@ input, select, textarea {
 		}
 
 			.panel > *.color0 {
-				background-image: url("../../images/overlay.png"), linear-gradient(270deg, #000000 20%, #a50a0c 60%, #000000);
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #000000 20%, #a58485 60%, #000000);
 				background-size: 128px 128px, auto;
 			}
 
