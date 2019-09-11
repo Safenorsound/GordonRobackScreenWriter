@@ -2659,9 +2659,9 @@ input, select, textarea {
 			width: 67.5%;
 		}
 
-		.panel.small .span-7, .panel.medium .span-7, .panel.large .span-7 {
+		/* .panel.small .span-7, .panel.medium .span-7, .panel.large .span-7 {
 			width: 70%;
-		}
+		} */
 
 		.panel.small .span-7-25, .panel.medium .span-7-25, .panel.large .span-7-25 {
 			width: 72.5%;
