@@ -214,26 +214,6 @@ Instructions:
 				automatically wrap to the next row when they exceed its width (as defined by its span modifier).
 				You can have as many groups in a gallery as you like.
 
-			Modifiers
-
-				Image
-
-					filtered       Applies a gradient filter to the image.
-					tinted         Applies a tint filter to the image.
-
-				Image Position (required)
-
-					top left       Position image in the top-left corner.
-					top            Position image along the top edge.
-					top right      Position image in the top-right corner.
-					right          Position image along the right edge.
-					bottom right   Position image in the bottom-right corner.
-					bottom         Position image along the bottom edge.
-					bottom left    Position image in the bottom-left corner.
-					left           Position image along the left edge.
-					center         Position image in the center.
-
-
 Credits:
 
 	Demo Images:
