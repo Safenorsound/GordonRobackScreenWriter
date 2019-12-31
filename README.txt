@@ -115,18 +115,6 @@ Instructions:
 					medium         Use medium size.
 					large          Use large size.
 
-				Color
-
-					color0         Use background color 0 (gradient).
-					color1         Use background color 1.
-					color2         Use background color 2.
-					color3         Use background color 3.
-					color4         Use background color 4.
-					color1-alt     Use background color 1 (alt).
-					color2-alt     Use background color 2 (alt).
-					color3-alt     Use background color 3 (alt).
-					color4-alt     Use background color 4 (alt).
-
 				Inner
 
 					columns        Divides child elements into columns.
