@@ -55,20 +55,6 @@ Instructions:
 					aligned        When used with "columns", aligns content to top of panel.
 					divided        When used with "columns", separates each column with a vertical line.
 
-			Examples
-
-				Here's a very basic example:
-
-					<section class="panel medium color0">
-						<div class="intro">
-							<h2 class="major">Panel</h2>
-							<p>Just a generic panel.</p>
-						</div>
-						<div class="inner">
-							<p>Lorem ipsum dolor sit amet.</p>
-						</div>
-					</section>
-
 				And here's a more advanced example using columns and *no* size modifier:
 
 					<section class="panel color2">
