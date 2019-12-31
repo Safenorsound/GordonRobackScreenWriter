@@ -7,15 +7,7 @@ Photo by Vikas Harijan on Unsplash
 Photo by Imleedh Ali on Unsplash
 Photo by Jakub Kriz on Unsplash
 
-Ethereal combines a robust side-scrolling framework of my own creation (with various
-"scroll-assist" features like drag/momentum scrolling, keyboard shortcuts, etc.) with a unique
-look and feel, a lightbox gallery, tons of customization options, and, of course, full
-responsiveness. Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
+Ethereal template: 
 
 AJ
 aj@lkn.io | @ajlkn
