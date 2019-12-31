@@ -172,17 +172,7 @@ Instructions:
 					left           Position image along the left edge.
 					center         Position image in the center.
 
-			Example
-
-				<section class="panel spotlight large right">
-					<div class="content">
-						<h1>Spotlight</h1>
-						<p>Lorem ipsum dolor sit amet.</p>
-					</div>
-					<div class="image" data-position="center">
-						<img src="/path/to/image.jpg" alt="" />
-					</div>
-				</section>
+		
 
 
 		Gallery
