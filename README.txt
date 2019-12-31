@@ -15,32 +15,6 @@ aj@lkn.io | @ajlkn
 
 Instructions:
 
-	Span Modifiers
-	==============
-
-		Span modifiers are simply classes that give elements a fixed width, the size of which
-		is determined by the "unit value" associated with the modifier (eg. "span-3" means
-		"span 3 units"). These sizes are in "rem" units when used inside panels that don't
-		use a size modifier, and in percentage units when used inside panels that do.
-
-		Ethereal includes span modifiers ranging from 0.25 units ("span-0-25") to 10 units
-		("span-10"). Here's a partial list:
-
-		span-0-25     Span 0.25 units.
-		span-0-5      Span 0.5 units.
-		span-0-75     Span 0.75 units.
-		span-1        Span 1 unit.
-		span-1-25     Span 1.25 units.
-		span-1-5      Span 1.5 units.
-		span-1-75     Span 1.75 units.
-		...
-		span-9        Span 9 units.
-		span-9-25     Span 9.25 units.
-		span-9-5      Span 9.5 units.
-		span-9-75     Span 9.75 units.
-		span-10       Span 10 units.
-
-
 	Major Elements
 	==============
 
